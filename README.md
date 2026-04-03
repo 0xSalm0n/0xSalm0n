@@ -72,7 +72,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0xsalmon)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/0xSalm0n/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0xsalmon/)
-[![Portfolio](https://img.shields.io/badge/Website-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://0xsalm0n.github.io/)
+[![Portfolio](https://img.shields.io/badge/Website-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://0xsalmon.vercel.app/)
 
 ---
 
